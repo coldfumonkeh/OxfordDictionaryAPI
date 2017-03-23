@@ -1,0 +1,30 @@
+{
+    "name":"OxfordDictionary",
+    "slug":"oxforddictionary",
+    "version":"1.0.0",
+    "author":"Matt Gifford <matt@monkehworks.com>",
+    "location":"https://github.com/coldfumonkeh/oxforddictionary",
+    "directory":"",
+    "createPackageDirectory":"true",
+    "Homepage":"https://github.com/coldfumonkeh/oxforddictionary",
+    "Documentation":"https://github.com/coldfumonkeh/oxforddictionary",
+    "type":"modules",
+    "Repository":{
+        "type":"git",
+        "URL":"https://github.com/coldfumonkeh/oxforddictionary"
+    },
+    "Bugs":"https://github.com/coldfumonkeh/oxforddictionary/issues",
+    "shortDescription":"A ColdFusion wrapper to interact with the Oxford Dictionary API",
+    "keywords":[
+        "oxford",
+        "dictionary",
+        "api",
+        "words",
+        "sentences",
+        "translations",
+        "synonyms",
+        "antonynms",
+        "language",
+        "thesaurus"
+    ]
+}
