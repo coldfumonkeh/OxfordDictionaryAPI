@@ -65,4 +65,6 @@ Then you can leverage the CFC via the injection DSL: `oxforddictionary@oxforddic
 
 ## Useful Links
 
-Please visit the (https://developer.oxforddictionaries.com/documentation)[official documentation] for details on the methods available.
+Please visit the official documentation for details on the methods available:
+
+https://developer.oxforddictionaries.com/documentation
