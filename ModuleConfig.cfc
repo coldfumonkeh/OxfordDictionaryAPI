@@ -2,7 +2,7 @@
 * Matt Gifford, Monkeh Works
 * www.monkehworks.com
 * ---
-* This module connects your application to the Twitter API
+* This module connects your application to the Oxford Dictionary API
 **/
 component {
 
